@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Mateus.</h1>
 
 <p>
-• 6º período de Engenharia da Computação.<br>
+• 7º período de Engenharia da Computação.<br>
 • Desenvolvimento Web (Front-end).<br>
 • Hobby design gráfico.
 </p>
